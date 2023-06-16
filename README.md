@@ -26,6 +26,7 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 <a href="https://instagram.com/ragib.shariar" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<br/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagibShariar)](https://github.com/anuraghazra/github-readme-stats)
 
