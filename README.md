@@ -31,7 +31,7 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 
 
 ## Technologies that I know 
-[  <table><tr><td valign="top" width="100%"> ]
+
 
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -53,9 +53,7 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-
-
-[ </td></tr></table>     ]  
+ 
 <br/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagibShariar)](https://github.com/anuraghazra/github-readme-stats)
