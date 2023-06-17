@@ -41,6 +41,7 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/></a>
+          <br>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 15px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 15px"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js"/></a>
