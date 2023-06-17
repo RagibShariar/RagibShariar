@@ -56,6 +56,8 @@
            
 <br/> </br>
 
+## <p align="left"><img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJlNGNmYWZmODgxZGE1MGEwYTNkNjg5NWQwMmQ0MjFhZjQ3ZDM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l4FGDXzlX3p5U9zJS/giphy.gif" width="30" height="auto" class="giphy-embed" /> &nbsp; Github Stat</p>
+
 ## ⚡ Github Stat
 [![RagibShariar](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")
 </br>
