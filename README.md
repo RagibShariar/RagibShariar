@@ -31,7 +31,7 @@
 <br/> 
 
 
-## 🧑‍💻 Technologies that I know 
+## 💻 I Code With 
 
 <div align="center" width="70%">
 <a href="https://www.python.org/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></a>&nbsp;&nbsp;
