@@ -30,7 +30,8 @@
 </div>
 <br/> 
 
-<img src="https://giphy.com/stickers/coding-developer-definity-first-UVG0BN8TOMKkPOJS6e"/>
+<img src="https://giphy.com/gifs/coding-developer-definity-first-UVG0BN8TOMKkPOJS6e?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="29" height="29" frameBorder="0" class="giphy-embed" />
+
 ## 💻 I code with 
 
 <div align="center" width="70%">
