@@ -1,4 +1,6 @@
 ![Full Stack Web Developer](https://github.com/RagibShariar/RagibShariar/blob/main/hello-world.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ragib+...;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
 # Hi there 👋, I'm Ragib
 #### Web Developer
 
