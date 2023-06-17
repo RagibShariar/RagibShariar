@@ -72,3 +72,7 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 ![GitHub metrics](https://metrics.lecoq.io/RagibShariar)  
 
 
+<img src="https://raw.githubusercontent.com/ragibshariar/ragibshariar/output/snake.svg" alt="Snake animation" />
+
+###
+
