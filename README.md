@@ -55,7 +55,7 @@
 <a href="https://www.latex-project.org/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LATEX"/></a>&nbsp;&nbsp;
 </div>                                                                      
            
-<br/> 
+<br/> </br>
 
 
 [![RagibShariar](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")
