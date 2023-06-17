@@ -12,7 +12,7 @@
   <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
 </p> 
 
-## Connect with me 
+## 📬 Connect with me 
 <br/> 
 <div align="center">
 <a href="https://github.com/ragibshariar" target="_blank">
@@ -31,7 +31,7 @@
 <br/> 
 
 
-## 💻 I Code With 
+## 💻 I code with 
 
 <div align="center" width="70%">
 <a href="https://www.python.org/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></a>&nbsp;&nbsp;
