@@ -58,11 +58,16 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
  
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagibShariar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RagibShariar&show_icons=true)  
+<!-- most used language -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragibshariar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ragibshariar" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RagibShariar)  
+<!-- Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragibshariar&show_icons=true&theme=dracula&locale=en" alt="ragibshariar" /></p>
+
+<!-- Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragibshariar&theme=dracula" alt="ragibshariar" /></p>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/RagibShariar)  
 
