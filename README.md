@@ -32,10 +32,6 @@
 
 ## <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamduMnRrMm9idG1va3Awd2lvMGRlYWFuenE0YWNvbmRnd3hieGhkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" height="auto" class="giphy-embed" /> &nbsp; I code with
 
-## <p align="left"><img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamduMnRrMm9idG1va3Awd2lvMGRlYWFuenE0YWNvbmRnd3hieGhkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" height="auto" class="giphy-embed" /> &nbsp; I code with</p>
-
-## 💻 I code with 
-
 <div align="center" width="70%">
 <a href="https://www.python.org/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></a>&nbsp;&nbsp;
 <a href="https://www.java.com/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA"/></a>&nbsp;&nbsp;
