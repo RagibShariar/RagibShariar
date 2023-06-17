@@ -32,7 +32,7 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 
 ## Technologies that I know 
 
-<div align="center">
+<div align="center" width="70%">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 15px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 15px"   height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JAVA"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5"/></a>
