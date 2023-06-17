@@ -60,7 +60,7 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 
 
 <!-- most used language -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragibshariar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ragibshariar" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragibshariar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ragibshariar" /></p>
 
 <!-- Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragibshariar&show_icons=true&theme=dracula&locale=en" alt="ragibshariar" /></p>
@@ -71,5 +71,4 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 
 ![GitHub metrics](https://metrics.lecoq.io/RagibShariar)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RagibShariar)  
 
