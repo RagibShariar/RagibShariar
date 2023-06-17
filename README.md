@@ -60,7 +60,9 @@
 
 [![RagibShariar](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")
 
-<a href="https://app.daily.dev/ragib"><img src="https://github.com/RagibShariar/RagibShariar/blob/master/devcard.svg" width="200" alt="Ragib Shariar's Dev Card"/></a>
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/RagibShariar/RagibShariar/blob/main/devcard.svg" width="200" alt="Ragib Shariar's Dev Card"/></a>
+</div>
 </br>
 
 
