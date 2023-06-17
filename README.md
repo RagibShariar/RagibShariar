@@ -1,17 +1,15 @@
 ![Full Stack Web Developer](https://github.com/RagibShariar/RagibShariar/blob/main/programmer.gif)
-## Hi there 👋, I'm Ragib
+# Hi there 👋, I'm Ragib
 #### Web Developer
 
-![Profile views](https://gpvc.arturio.dev/RagibShariar)  
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
-
-- 🔭 I’m currently working on Shikhbe Shobai 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning MERN Stack Backend 
 - 📫 How to reach me: srragib@gmail.com 
 
+<p align="center">
+  <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
+</p> 
 
 ## Connect with me  
 <a href="https://github.com/ragibshariar" target="_blank">
@@ -72,7 +70,5 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 ![GitHub metrics](https://metrics.lecoq.io/RagibShariar)  
 
 
-<p align="center">
-  <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
-</p>
+
 
