@@ -73,6 +73,6 @@ Skills: HTML / CSS / Bootstrap /JS / PHP / MySql
 
 
 <p align="center">
-  <img src="https://github.com/RagibShariar/RagibShariar/raw/output/ocean.gif" alt="snake">
+  <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
 </p>
 
