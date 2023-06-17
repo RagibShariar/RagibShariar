@@ -2,7 +2,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ragib+...;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-<p align="center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ragib+...;Full+Stack+Web+Developer" alt="Typing SVG" /></a> </p>
+## <p align="center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ragib+...;Full+Stack+Web+Developer" alt="Typing SVG" /></a> </p>
 
 # Hi there 👋, I'm Ragib
 #### Web Developer
