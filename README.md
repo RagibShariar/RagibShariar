@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://github.com/RagibShariar/RagibShariar/blob/main/programmer.gif)
+![Full Stack Web Developer](https://github.com/RagibShariar/RagibShariar/blob/main/hello-world.gif)
 # Hi there 👋, I'm Ragib
 #### Web Developer
 
