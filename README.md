@@ -54,15 +54,17 @@
 <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></a>&nbsp;&nbsp;
 <a href="https://www.latex-project.org/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LATEX"/></a>&nbsp;&nbsp;
 </div>                                                                      
-          
+           
+<br/> 
 
+https://github-stats-alpha.vercel.app/api?username=RagibShariar
 
- 
-<br/>  
+</br>
 
 
 <!-- most used language -->
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragibshariar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ragibshariar" /></p>
+
 
 <!-- Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragibshariar&show_icons=true&theme=dracula&locale=en" alt="ragibshariar" /></p>
