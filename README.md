@@ -57,7 +57,7 @@
            
 <br/> 
 
-<div align="center">
+<div >
 [![RagibShariar](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")
 </div>
 
