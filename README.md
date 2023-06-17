@@ -30,7 +30,7 @@
 </div>
 <br/> 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamduMnRrMm9idG1va3Awd2lvMGRlYWFuenE0YWNvbmRnd3hieGhkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="29" height="29" frameBorder="0" class="giphy-embed" /> I code with
+## <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamduMnRrMm9idG1va3Awd2lvMGRlYWFuenE0YWNvbmRnd3hieGhkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" height="auto" class="giphy-embed" /> &nbsp; I code with
 
 
 ## 💻 I code with 
