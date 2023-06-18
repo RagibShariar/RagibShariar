@@ -8,10 +8,6 @@
 - 📫 How to reach me: srragib@gmail.com 
 
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-<img src="https://github.com/RagibShariar/RagibShariar/blob/output/github-contribution-grid-snake.svg">
-
 <p align="center">
   <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
 </p> 
