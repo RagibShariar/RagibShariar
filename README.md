@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning MERN Stack Backend 
 - 📫 How to reach me: srragib@gmail.com 
-
+<img align="left" src="https://komarev.com/ghpvc/?username=RagibShariar&style=flat-square"   />
 
 ![snake gif](https://github.com/RagibShariar/RagibShariar/blob/output/github-contribution-grid-snake.svg)
 
