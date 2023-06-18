@@ -9,7 +9,7 @@
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-![Snake animation](https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg)
+![Snake animation](https://github.com/RagibShariar/RagibShariar/blob/output/github-snake.svg)
 
 <p align="center">
   <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
