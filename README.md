@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning MERN Stack Backend 
 - 📫 How to reach me: srragib@gmail.com 
-<img align="left" src="https://komarev.com/ghpvc/?username=RagibShariar&style=flat-square"   />
+
 
 ![snake gif](https://github.com/RagibShariar/RagibShariar/blob/output/github-contribution-grid-snake.svg)
 
@@ -59,9 +59,10 @@
 ## <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJlNGNmYWZmODgxZGE1MGEwYTNkNjg5NWQwMmQ0MjFhZjQ3ZDM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l4FGDXzlX3p5U9zJS/giphy.gif" width="30" height="auto" class="giphy-embed" /> &nbsp; Github Stat
 
 [![RagibShariar](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")](https://github-stats-alpha.vercel.app/api?username=RagibShariar "RagibShariar")
+<img align="right" src="https://komarev.com/ghpvc/?username=RagibShariar&style=flat-square"   />
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/RagibShariar/RagibShariar/blob/main/devcard.svg" width="300" alt="Ragib Shariar's Dev Card"/></a>
+<a href="https://app.daily.dev/ragib"><img align="right" src="https://github.com/RagibShariar/RagibShariar/blob/main/devcard.svg" width="300" alt="Ragib Shariar's Dev Card"/></a>
 </div>
 </br>
 
