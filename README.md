@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
+  <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake-dark.svg" alt="snake">
 </p> 
 
 ## 📬 Connect with me 
