@@ -9,6 +9,7 @@
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+
 <img src="https://github.com/RagibShariar/RagibShariar/blob/output/github-snake.svg")>
 
 <p align="center">
