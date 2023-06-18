@@ -13,7 +13,9 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
+<p align="center">
+  <img src="https://github.com/RagibShariar/RagibShariar/raw/output/github-snake.svg" alt="snake">
+</p> 
 
 
 
