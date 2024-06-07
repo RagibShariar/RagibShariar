@@ -42,7 +42,7 @@
 <a title="HTML" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5"/></a>&nbsp;&nbsp;
 <a title="CSS" href="https://www.w3schools.com/css/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3"/></a>&nbsp;&nbsp;
 <a title="Bootstrap" href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/></a>&nbsp;&nbsp;
-<a title="Tailwind CSS" href="https://www.tailwindcss.com/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS"/></a>&nbsp;&nbsp;
+<a title="Tailwind CSS" href="https://www.tailwindcss.com/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/></a>&nbsp;&nbsp;
 <a title="Javascript" href="https://www.javascript.com/" target="_blank"><img   height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/></a>&nbsp;&nbsp;
 <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/></a>&nbsp;&nbsp;
 <br><br>
