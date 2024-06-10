@@ -1,6 +1,6 @@
 ![Full Stack Web Developer](https://github.com/RagibShariar/RagibShariar/blob/main/hello-world.gif)
 
-## <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=30A14E&center=true&vCenter=true&random=true&width=500&height=60&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Next+JS+Developer;Full+Stack+Developer;Hi+there%2C+%F0%9F%91%8B+This+is+Ragib..." alt="Typing SVG" /></p>
+## <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=30A14E&center=true&vCenter=true&random=true&width=500&height=60&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Next+JS+Developer;Full+Stack+Developer; Hi+there%2C+%F0%9F%91%8B+This+is+Ragib..." alt="Typing SVG" /></p>
 
 
 - 🔭 I’m currently working on a MERN Project
