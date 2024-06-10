@@ -3,8 +3,8 @@
 ## <p align="center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ragib+...;Full+Stack+Web+Developer" alt="Typing SVG" /></a> </p>
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning MERN Stack Backend 
+- 🔭 I’m currently working on a MERN Project
+- 🌱 I’m currently learning NEXTJS
 - 📫 How to reach me: srragib@gmail.com 
 
 
