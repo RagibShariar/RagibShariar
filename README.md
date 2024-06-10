@@ -31,15 +31,9 @@
 <a href="https://github.com/ragibshariar" target="_blank">
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  />
 </a>
-<a href="https://linkedin.com/in/ragibshariar" target="_blank">
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://www.facebook.com/srragib" target="_blank">
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
-</a>
-<a href="https://instagram.com/ragib.shariar" target="_blank">
-<img width="50px" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://linkedin.com/in/ragibshariar" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.facebook.com/srragib" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /></a>
+<a href="https://instagram.com/ragib.shariar" target="_blank"><img width="50px" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>  
 </div>
 <br/> 
 
