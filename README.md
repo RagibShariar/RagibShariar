@@ -66,7 +66,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=RagibShariar&style=flat-square"   />
 
 <div align="left">
-<a href="https://app.daily.dev/ragib"><img align="right" src="https://github.com/RagibShariar/RagibShariar/blob/main/devcard.png" width="300" alt="Ragib Shariar's Dev Card"/></a>
+<a href="https://app.daily.dev/ragib"><img align="right" src="https://github.com/RagibShariar/RagibShariar/blob/main/devcard.png" width="356" alt="Ragib Shariar's Dev Card"/></a>
 </div>
 </br>
 
