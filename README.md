@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m currently learning NEXTJS
-- 📫 How to reach me: srragib@gmail.com 
+- 📫 How to reach me: srragib@gmail.com
+- 🚩 Check out my [GitHub résumé](https://resume.github.io/?ragibshariar) to learn more about me and my projects.
 
 
 <picture>
