@@ -58,6 +58,7 @@
 <a title="Git" href="https://git-scm.com/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></a>&nbsp;&nbsp;
 <a title="LATEX" href="https://www.latex-project.org/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LATEX"/></a>&nbsp;&nbsp;
 <a title="Visual Studio Code" href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/></a>&nbsp;&nbsp;
+<a title="Claude" href="https://claude.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claudecode/claudecode-original.svg" /></a>&nbsp;&nbsp;
 </div>                                                                       
            
 <br/> </br>
