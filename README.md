@@ -3,9 +3,10 @@
 ## <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=30A14E&center=true&vCenter=true&random=true&width=650&height=60&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Next+JS+Developer;Full+Stack+Developer;Hi+there%2C+%F0%9F%91%8B+This+is+Ragib..." alt="Typing SVG" /></p>
 
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m currently learning NEXTJS
+- 🔨 Building **POSiq**, a multi-tenant restaurant POS SaaS
+- 🤖 Learning LLMs by building a RAG chatbot
 - 📫 How to reach me: srragib@gmail.com
+- 🌐 Portfolio: [ragibshariar.vercel.app](https://ragibshariar.vercel.app)
 - 🚩 Check out my [GitHub résumé](https://resume.github.io/?ragibshariar) to learn more about me and my projects.
 
 
